@@ -1,0 +1,44 @@
+body {
+  background-color: powderblue;
+}
+ul {
+  color: red;
+}
+li{
+	text-align: center;
+	
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+p {
+	text-align:center;
+	
+}
+h2 {
+	text-align:center;
+}
+img {
+	padding: 25px 50px 75px 100px;
+}
+embed{
+	padding: 25px 100px 25px 600px;
+}
+.nav {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-width: 1px 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.nav a {
+  display: inline-block;
+  color: lightslategray;
+  padding: 10px;
+	
+}
+
+
