@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color:#DED9E2 ;
 }
 ul {
   text-align: center;
@@ -11,7 +11,7 @@ li{
 	
 }
 h1 {
-  color: green;
+  color: #80A1D4;
   text-align: center;
 }
 p {
@@ -22,13 +22,19 @@ h2 {
 	text-align:center;
 }
 img {
-	padding: 25px 50px 75px 100px;
+	padding: 25px 50px 75px 100px;padding: 25px 50px 75px 100px;
+	width:400px ;
+	height:250px ;
 }
 embed{
 	padding: 25px 100px 25px 600px;
 }
 nav {
+  background-color: #F7F4EA; 
   width:100%;
   text-align: center;
 }
-
+div {
+background-color: #C0B9DD;
+height:50px;
+}
